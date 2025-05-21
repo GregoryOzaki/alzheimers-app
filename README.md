@@ -1,1 +1,1 @@
-# alzheimer-s-app
+# alzheimers-app
